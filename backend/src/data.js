@@ -89,7 +89,7 @@ export const sample_users = [
   },
   {
     id: 2,
-    name: 'sri Doe',
+    name: 'sri ',
     email: 'sri@gmail.com',
     password: '12345',
     address: 'Shanghai',
